@@ -1,2 +1,2 @@
 "This is the first version 2.0"
-"this is branch 1"
+"this is branch 2"
